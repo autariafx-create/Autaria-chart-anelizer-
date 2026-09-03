@@ -24,32 +24,25 @@
   ],
   "screenshots": [
     {
-      "src": "IMG-20260901-WA0006.png",
-      "sizes": "ඔයාගේ_Size_එක",
+      "src": "Screenshot_20260903_171920.png",
+      "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Market Structure & Key Levels"
+      "label": "Screenshot 1"
     },
     {
-      "src": "IMG-20260901-WA0007.png",
-      "sizes": "ඔයාගේ_Size_එක",
+      "src": "Screenshot_20260903_171925.png",
+      "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Live Chart & Fibonacci"
+      "label": "Screenshot 2"
     },
     {
-      "src": "IMG-20260830-WA0003.png",
-      "sizes": "ඔයාගේ_Size_එක",
+      "src": "Screenshot_20260903_171930.png",
+      "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "J.A.R.V.I.S. Trading Desk"
-    },
-    {
-      "src": "IMG-20260830-WA0005.png",
-      "sizes": "ඔයාගේ_Size_එක",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Order Blocks & FVG"
+      "label": "Screenshot 3"
     }
   ]
 }
