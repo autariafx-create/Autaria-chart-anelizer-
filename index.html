@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+    
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Autaria Gold Analyzer</title>
+    <title>Real ICT / SMC Structure Analyzer & Live Chart</title>
     
-    <!-- ⭐ Icons ⭐ -->
+    <!-- ⭐ Icons (PNG) ⭐ -->
     <link rel="icon" type="image/png" sizes="192x192" href="launchericon-192x192.png">
     <link rel="icon" type="image/png" sizes="512x512" href="launchericon-512x512.png">
     <link rel="apple-touch-icon" href="launchericon-192x192.png">
@@ -15,6 +16,23 @@
     
     <!-- Theme -->
     <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- ⭐ Fullscreen Mode ⭐ -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            if (document.documentElement.requestFullscreen) {
+                document.documentElement.requestFullscreen().catch(function(err) {
+                    console.log('Fullscreen not allowed');
+                });
+            }
+        });
+    </script>
+    
+    <style>
+        /* Your CSS */
+    </style>
 </head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
